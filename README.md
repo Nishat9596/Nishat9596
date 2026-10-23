@@ -16,12 +16,22 @@
 </p>
 
 ### Highlights
-- 5 years in IT, with hands-on software testing
-- Test automation with Playwright in JavaScript
-- Focused on testing AI products: LLM-powered chatbots and voice agents
-- Computer science graduate
-- Previously at Leoforce (India)
-- Strong at prioritising tasks, scheduling and coordinating with teams
+- QA Software Tester at **Leoforce**, a product company, since Nov 2023, testing an AI-powered recruiting platform
+- 5 years in IT; computer science graduate
+- Test automation with Playwright (JavaScript/TypeScript) and API testing with Postman
+- Focused on testing AI products: AI agents, LLM-powered chatbots and voice agents
+
+### Experience
+**QA Software Tester – Manual & Automation** · Leoforce (product company) · Nov 2023 – Present · Hybrid
+
+Testing **Connect 2.0**, an AI-powered recruiting platform (job management, candidate search, pipeline, SMS/email):
+- Validate the AI agent with varied prompts, search queries and job criteria; flag misread intents, irrelevant candidates and wrong rankings
+- Cross-check AI candidate recommendations against job requirements and the database
+- Design and run functional, regression, smoke and sanity tests from user stories and acceptance criteria
+- Validate data consistency across UI, API responses and database
+- Log and track defects in JIRA, retest fixes and run regression on the affected areas
+- Build Playwright (JS/TS) end-to-end regression automation in Git/GitHub; validate REST APIs with Postman
+- Take part in daily stand-ups and sprint ceremonies; give QA sign-off before each release
 
 ### My projects
 | Project | What it shows | Result |
@@ -48,12 +58,3 @@
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-### Currently learning
-- How large language models work under the hood
-- Evaluating LLMs at scale
-
-### Languages
-English · Hindi
