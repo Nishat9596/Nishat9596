@@ -56,6 +56,7 @@ End-to-end QA for a product company's recruiting platform (job management, candi
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
@@ -64,3 +65,6 @@ End-to-end QA for a product company's recruiting platform (job management, candi
 
 ### Languages
 English · Hindi
+
+---
+<p align="center"><b>Looking for a QA engineer in the UAE?</b> I'm available to join immediately. See my <a href="https://nishat9596.github.io">portfolio</a> or <a href="mailto:nishatthahniyath@gmail.com">email me</a>.</p>
